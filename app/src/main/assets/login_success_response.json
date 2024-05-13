@@ -1,0 +1,9 @@
+{
+  "error": false,
+  "message": "success",
+  "loginResult": {
+    "userId": "user-X-iV5b0v3NqS-wWA",
+    "name": "kamille",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLVgtaVY1YjB2M05xUy13V0EiLCJpYXQiOjE3MDU0ODk5OTd9.WLlRUg3RFxl2el95r17Sy3lc-7gmYgfkZv1mAoqgObA"
+  }
+}

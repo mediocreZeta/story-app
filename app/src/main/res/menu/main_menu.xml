@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+
+
+        <item
+            android:title="Language"
+            android:id="@+id/btn_language"
+            android:icon="@drawable/baseline_sort_by_alpha_black_24dp"
+            android:contentDescription="@string/logout"
+            app:showAsAction="ifRoom"/>
+
+        <item
+            android:title="Map"
+            android:id="@+id/btn_map"
+            android:icon="@drawable/baseline_location_on_black_24dp"
+            android:contentDescription="@string/logout"
+            app:showAsAction="ifRoom"/>
+
+        <item
+            android:id="@+id/btn_logout"
+            android:icon="@drawable/baseline_logout_black_24dp"
+            android:contentDescription="@string/logout"
+            app:showAsAction="ifRoom"
+            android:title="@string/logout" />
+
+
+    </group>
+</menu>

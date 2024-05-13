@@ -1,0 +1,51 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-Q3vtJhWpV79SzMwW",
+      "name": "aya",
+      "description": "asd",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1705479985711_lvkJ1zhI.png",
+      "createdAt": "2024-01-17T08:26:25.716Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-m63dKjUz0Rp2p4nT",
+      "name": "aya",
+      "description": "tesloc",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1705479870166_DZbEs-GV.png",
+      "createdAt": "2024-01-17T08:24:30.170Z",
+      "lat": -6.463432700926787,
+      "lon": 107.58354239165783
+    },
+    {
+      "id": "story-H80XynC8bav-BYf3",
+      "name": "tes21",
+      "description": "ini karpet",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1705477880695_RpbiXyz0.jpg",
+      "createdAt": "2024-01-17T07:51:20.698Z",
+      "lat": -7.3115767,
+      "lon": 112.7608817
+    },
+    {
+      "id": "story-hUEEi03VVbYliY6N",
+      "name": "tes21",
+      "description": "kursi ini",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1705477534829_FGbapCK-.jpg",
+      "createdAt": "2024-01-17T07:45:34.832Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-I6qWcXdQhJbR6GdW",
+      "name": "reviewer",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1705472379243_0o5pG9lP.jpg",
+      "createdAt": "2024-01-17T06:19:39.248Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_story_as_guest">Add story as guest</string>
+    <string name="auth_section_desc">Please %s to continue</string>
+    <string name="create_account">Don\'t have an account?Sign up</string>
+    <string name="loading">Please wait...</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description_hint">Enter your description</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">Add story</string>
+    <string name="error">Error: %s</string>
+    <string name="created_date">Created date</string>
+    <string name="description">Description</string>
+    <string name="logout">Log out</string>
+    <string name="detail_story">Detail story</string>
+    <string name="upload_story">Upload story</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="retry">retry</string>
+    <string name="include_location">Want to include your location?</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="password_is_less_than_8_characters">Password is less than 8 characters</string>
+    <string name="email_not_valid">Email not valid</string>
+    <string name="username_cannot_be_empty">Username cannot be empty</string>
+    <string name="empty_data">Empty data</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="null_location">Null location</string>
+    <string name="stories_added_successfully">Stories added successfully</string>
+    <string name="account_has_been_successfully_created">Account has been successfully created</string>
+
+</resources>

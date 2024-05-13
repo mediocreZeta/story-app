@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="add_story_as_guest">Tambah cerita sebagai tamu</string>
+    <string name="auth_section_desc">Lengkapi data untuk melanjutkan</string>
+    <string name="create_account">Tidak memiliki akun?Daftar</string>
+    <string name="loading">Mohon tunggu...</string>
+    <string name="register">Mendaftar</string>
+    <string name="username">Nama</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description_hint">Masukkan deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="add_story">Tambah cerita</string>
+    <string name="error">Error: %s</string>
+    <string name="created_date">Tanggal</string>
+    <string name="description">Deskripsi</string>
+    <string name="logout">Keluar</string>
+    <string name="detail_story">Detail cerita</string>
+    <string name="upload_story">Unggah cerita</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="retry">Coba ulang</string>
+    <string name="include_location">Ingin menyertakan lokasi?</string>
+    <string name="latitude">Garis lintang:</string>
+    <string name="longitude">Garis bujur:</string>
+    <string name="title_activity_maps">Halaman peta</string>
+    <string name="password_is_less_than_8_characters">kata sandi kurang dari 8 karaketer</string>
+    <string name="email_not_valid">Email tidak valid</string>
+    <string name="username_cannot_be_empty">Nama tidak boleh kosong</string>
+    <string name="empty_data">Data kosong</string>
+    <string name="location_permission_denied">Perizinan lokasi ditolak</string>
+    <string name="null_location">Lokasi tidak ditemukan</string>
+    <string name="stories_added_successfully">Cerita berhasil ditambahkan</string>
+    <string name="account_has_been_successfully_created">Akun berhasil dibuat</string>
+
+</resources>
